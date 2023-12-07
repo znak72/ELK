@@ -28,6 +28,8 @@
 
 ### Решение 3
 
+![3](https://github.com/znak72/ELK/blob/main/logstashnginx.png)
+
 ---
 
 ### Задание 4. Filebeat. 
@@ -38,3 +40,5 @@
 
 
 ### Решение 4
+
+![4](https://github.com/znak72/ELK/blob/main/filebeatnginx.png)
